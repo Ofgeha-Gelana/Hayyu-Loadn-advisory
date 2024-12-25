@@ -1,0 +1,136 @@
+/*
+Header styling
+.header-container {
+    background-color: #00ADEF
+    ;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.header-container .title {
+    font-size: 36px;
+    margin: 0;
+}
+
+.header-container .subtitle {
+    font-size: 18px;
+    margin: 5px 0 0;
+}
+
+/* Form styling */
+
+/*
+.form-header {
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #00ADEF
+    ;
+}
+
+input, .stNumberInput {
+    border: 1px solid #0047AB;
+    border-radius: 5px;
+}
+
+/* Result styling */
+/*
+.result {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.result.success {
+    background-color: #D4EDDA;
+    color: #155724;
+    border: 1px solid #C3E6CB;
+}
+
+.result.error {
+    background-color: #F8D7DA;
+    color: #721C24;
+    border: 1px solid #F5C6CB;
+}
+
+/* Buttons */
+/*
+button {
+    background-color: #E38542 !important;
+    color: white !important;
+    border-radius: 5px !important;
+    font-size: 16px !important;
+    padding: 10px !important;
+}
+
+
+*/
+
+
+
+
+/* Header styling */
+.header-container {
+    background-color: #00ADEF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.header-container .title {
+    font-size: 36px;
+    margin: 0;
+}
+
+.header-container .subtitle {
+    font-size: 18px;
+    margin: 5px 0 0;
+}
+
+/* Form styling */
+.form-header {
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #00ADEF;
+}
+
+input, .stNumberInput {
+    border: 1px solid #0047AB;
+    border-radius: 5px;
+}
+
+/* Result styling */
+.result {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.result.success {
+    background-color: #D4EDDA;
+    color: #155724;
+    border: 1px solid #C3E6CB;
+}
+
+.result.error {
+    background-color: #F8D7DA;
+    color: red; /* Make the text red for error */
+    border: 1px solid #F5C6CB;
+}
+
+/* Buttons */
+button {
+    background-color: #E38542 !important;
+    color: white !important;
+    border-radius: 5px !important;
+    font-size: 16px !important;
+    padding: 10px !important;
+}
